@@ -1,4 +1,4 @@
-# Demo-Misconfiguration-2-IAM-Over-Permission
+# Demo Misconfiguration 2: IAM Over-Permission
 ## 📌 Introduction
 
 This project demonstrates a common AWS IAM misconfiguration: granting overly broad permissions to a user.
