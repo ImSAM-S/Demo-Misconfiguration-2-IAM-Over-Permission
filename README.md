@@ -33,7 +33,7 @@ If you successed with the keys you got in IAM account and got into aws. You can 
                       ` aws sts get-caller-identity `
                       
 ### 3. Creating bucket
-With GUI: You sreach bucket on aws and create
+With GUI: You search bucket on aws and create
 With CLI: You use this code:
 
 ![image alt](https://github.com/ImSAM-S/Demo-Misconfiguration-2-IAM-Over-Permission/blob/59fa6142604185601a9e8d2e0bae0d1388b10414/03_create_bucket.png)
