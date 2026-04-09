@@ -83,8 +83,8 @@ Create a custom policy in IAM user with only the necessary permissions, for exam
         "s3:GetObject"
       ],
       "Resource": [
-        "arn:aws:s3:::project-misconfig-demo",
-        "arn:aws:s3:::project-misconfig-demo/*"
+        "arn:aws:s3:::project-misconfig-demo-publi-bucket",
+        "arn:aws:s3:::project-misconfig-demo-publi-bucket/*"
       ]
     }
   ]
